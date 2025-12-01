@@ -1,0 +1,20 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f0f8ff; /* 浅蓝色背景 */
+    color: #333; /* 深灰色文字 */
+    text-align: center; /* 文字居中 */
+    padding: 50px;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto; /* 容器居中 */
+    background-color: white;
+    padding: 40px;
+    border-radius: 10px; /* 圆角边框 */
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* 添加阴影 */
+}
+
+h1 {
+    color: #4CAF50; /* 绿色标题 */
+}
